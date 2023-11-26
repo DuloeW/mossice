@@ -1,0 +1,9 @@
+.container-card:hover .deskripsi {
+    bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .gambar {
+        background-position-y: 700px ;
+    }
+}
