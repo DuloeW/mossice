@@ -2,7 +2,7 @@
   "name": "website-penjualan-mossice",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://DuloeW.github.io/mossice",
+  "homepage": "https://duloew.github.io/mossice/",
   "type": "module",
   "scripts": {
     "dev": "vite",
